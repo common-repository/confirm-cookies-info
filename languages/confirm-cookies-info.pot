@@ -1,0 +1,207 @@
+# Copyright (C) 2014 Confirm Cookies Info
+# This file is distributed under the same license as the Confirm Cookies Info package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Confirm Cookies Info 0.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/confirm-cookies-info\n"
+"POT-Creation-Date: 2014-05-07 21:15:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/as_cci_form_creator.php:20 templates/settings.php:52
+msgid "General Settings"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:21
+msgid "Turn plugin ON/OFF"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:22
+msgid "When confirmation expires"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:23
+msgid "Info Box Settings"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:24
+msgid "Cookie Information"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:25
+msgid "Vertical align of info box"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:25
+msgid "Top"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:25
+msgid "Bottom"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:26
+msgid "Horizontal align of info box"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:26
+msgid "Left"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:26
+msgid "Center"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:26
+msgid "Right"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:27
+msgid "Infobox width"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:28
+msgid "Padding left-right"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:29
+msgid "Padding bottom-padding"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:30
+msgid "Infobox background color"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:31
+msgid "Font Settings"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:32
+msgid "Set font size in"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:32
+msgid "Percents"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:32
+msgid "Pixels"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:33
+msgid "Font size"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:34
+msgid "Font color"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:35
+msgid "Font family"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:36
+msgid "Button confirm Settings"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:37
+msgid "Button accept label"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:38
+msgid "Button accept color"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:39
+msgid "Button accept hover color"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:40
+msgid "Button more link Settings"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:41
+msgid "Link more info label"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:42
+msgid "Link more URL"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:43
+msgid "Link more color"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:44
+msgid "Link more hover color"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:53
+msgid "Plugin switched ON"
+msgstr ""
+
+#: includes/as_cci_form_creator.php:53
+msgid "Plugin switched OFF"
+msgstr ""
+
+#: includes/as_cci_main_class.php:68
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/as_cci_main_class.php:85
+msgid "Thank you for using my plugin. I hope you liked it."
+msgstr ""
+
+#: includes/as_cci_main_class.php:86
+msgid "Look at plugins "
+msgstr ""
+
+#: includes/as_cci_main_class.php:86
+msgid "webpage"
+msgstr ""
+
+#: includes/as_cci_main_class.php:87
+msgid "Buy me a cup of coffee, because I work best at night."
+msgstr ""
+
+#: includes/as_cci_main_class.php:100
+msgid "Settings page"
+msgstr ""
+
+#: templates/settings.php:23
+msgid "Settings updated."
+msgstr ""
+
+#: templates/settings.php:94
+msgid "If you see a bug in this plugin report it "
+msgstr ""
+
+#: templates/settings.php:94
+msgid "here"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Confirm Cookies Info"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wp-art.pl/plugins/confirm_cookies_info.php"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Confirm Cookies Info - mała wtyczka dla wszystkich którzy na swoim blogu "
+"muszą/powinni umieścić tekst dotyczący korzystania z technologii ciasteczek."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Artur Szula"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wp-art.pl"
+msgstr ""
